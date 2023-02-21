@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price":60,
       "createdAt": "2023-02-08T00:38:55.434Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso de Figma",
+      "type": "expense",
+      "category": "Educação",
+      "price":400,
+      "createdAt": "2023-04-08T00:38:55.434Z"
     }
   ]
 }
