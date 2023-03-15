@@ -23,6 +23,14 @@
       "price": 500,
       "createdAt": "2023-02-22T04:30:13.083Z",
       "id": 3
+    },
+    {
+      "description": "Teste",
+      "type": "income",
+      "category": "Teste",
+      "price": 1223,
+      "createdAt": "2023-03-07T04:41:38.163Z",
+      "id": 4
     }
   ]
 }
